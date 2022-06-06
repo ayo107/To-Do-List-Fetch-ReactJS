@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card{
+    width: 18rem
+    
+}
+.print{
+    
+    text-align: start;
+}
+li{
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    border: none;
+    background-color: red;
+    opacity: 0.8;
+    border-radius: 50%;
+    color: black;
+    text-align: right;
+    
+}
